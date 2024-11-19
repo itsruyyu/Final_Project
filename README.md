@@ -1,6 +1,6 @@
 # Project_akhir_Kelompok_A
 
-# Path Direktori
+## Path Direktori
 Final_Project/
 ├── README.md                          # Penjelasan umum proyek
 ├── .gitignore                         # File/direktori yang diabaikan oleh Git
